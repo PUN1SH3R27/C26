@@ -1,2 +1,1 @@
-# angryBirdsStage2
-Angry Birds stage 2 with Class Inheritance and Images
+My Name is Arya And Angry Birds is a boring game.
